@@ -4,14 +4,10 @@
 <br />
 
 <div id="statusProject" align="center">
-<img src="https://img.shields.io/github/license/franklindrw/
-plataforma-de-negocios.svg?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/franklindrw/
-plataforma-de-negocios.svg?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/franklindrw/
-plataforma-de-negocios.svg?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/franklindrw/
-plataforma-de-negocios.svg?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/franklindrw/plataforma-de-negocios.svg?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/franklindrw/plataforma-de-negocios.svg?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/franklindrw/plataforma-de-negocios.svg?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/franklindrw/plataforma-de-negocios.svg?style=for-the-badge" />
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/>
 </div>
 
