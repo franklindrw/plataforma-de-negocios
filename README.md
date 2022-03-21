@@ -1,6 +1,6 @@
 <br />
-<h1 align="center"> Plataforma de Negócios B3</h1>
-<h4 align="center">Aplicação Web para armazenar movimentações de ações na B3, feita para estudo Typescript com base das aulas da Alura.</h4>
+<h1 align="center"> Plataforma de Negócios</h1>
+<h4 align="center">Aplicação Web para armazenar movimentações de ações, feita para estudo Typescript com base das aulas da Alura.</h4>
 <br />
 
 <div id="statusProject" align="center">
