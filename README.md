@@ -110,7 +110,7 @@ Também foi usado Decorators para validar a performance da aplicação imprimind
  ```
  npm start
  ```
- 
+ <br /><br />
  
 ## ▶️ Como Usar
 
@@ -120,6 +120,7 @@ Também foi usado Decorators para validar a performance da aplicação imprimind
 
 3. Para trazer os dados da API clique em importar os dados
  
+<br /><br />
 
 ### 🖊 Autor
 
