@@ -31,7 +31,7 @@
 
 Esta aplicação foi criada para colocar em prática os conhecimentos adquiridos na formação Typescript da Alura em um projeto Front-end Web. O objetivo do projeto foi criar uma interface de histórico de negociação, onde o usuário pode enviar as informações para uma web service.
 
-Com Typescript é possível ter uma experiência mais fluida ao lidar com arquitetura MVC e Orientações a objetos, e como é baseado em JavaScript é possivel combinar com diferentes frameworks e deixar que seja copilado para várias versões diferentes do ECMAScript.
+Com Typescript é possível ter uma experiência mais fluida ao lidar com arquitetura MVC e Orientações a objetos, e como é baseado em JavaScript é possivel combinar com diferentes frameworks e deixar que seja compilado para várias versões diferentes do ECMAScript.
 
 <br /><br />
 
