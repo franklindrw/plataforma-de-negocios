@@ -83,6 +83,11 @@ Também foi usado Decorators para validar a performance da aplicação imprimind
 
 ## 📥 Instalação
 
+### Requisitos
+Para instalar essa aplicação na máquina é preciso ter instalado o Node.js
+
+saiba mais em https://nodejs.org/en/download/
+
 ### Instalar a aplicação Web
 
  1. Clone o repositório
