@@ -13,6 +13,15 @@
 
 <br /><br />
 
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
+| -------------  | --- |
+| :sparkles: Nome        |  Plataforma de Negócios
+| :label: Tecnologias | React, Typescript
+| :rocket: URL         | 
+| :fire: Desafio     | Aplicação Web para armazenar movimentações de ações, feita para estudo Typescript com base das aulas da Alura.
+
+<br /><br />
+
 ## Índice
 * [Sobre o Projeto](#-sobre-o-projeto)
 * [Validação de Dados](#validação-de-dados)
@@ -40,7 +49,7 @@ Com Typescript é possível ter uma experiência mais fluida ao lidar com arquit
 É validado para que o usuário não consiga fazer negociações em finais de semana, e usando getDay() para verificar se é maior que Domingo(0) e menor que sábado(6)
 <br />
 <div align="center">
-<img height="600px" src="https://user-images.githubusercontent.com/81038899/159193148-e277acdb-47bd-4383-8601-1d65281f8772.gif" />
+<img height="600px" src="https://user-images.githubusercontent.com/81038899/159193148-e277acdb-47bd-4383-8601-1d65281f8772.gif#vitrinedev" />
 </div>
 
 <br />
