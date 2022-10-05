@@ -16,7 +16,7 @@
 | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
 | -------------  | --- |
 | :sparkles: Nome        |  Plataforma de Negócios
-| :label: Tecnologias | Typescript
+| :label: Tecnologias | Typescript, MVC
 | :rocket: URL         | 
 | :fire: Desafio     | Aplicação Web para armazenar movimentações de ações, feita para estudo Typescript com base das aulas da Alura.
 
